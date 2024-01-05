@@ -1,6 +1,12 @@
 # byexample
 
+[![Deploy static content to Pages](https://github.com/AlexHedley/byexample/actions/workflows/static.yml/badge.svg)](https://github.com/AlexHedley/byexample/actions/workflows/static.yml)
+
 x by example site
+
+## Site
+
+- https://alexhedley.github.io/byexample/
 
 ## Acknowledgements
 
